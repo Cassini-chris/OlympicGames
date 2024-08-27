@@ -1,5 +1,7 @@
-# OlympicGames
+# Olympic Games Participants 1896 -2024
 Analytics Use Case of Olympic Participants
+
+![Hello Olympia](path/to/pic.jpg)
 
 #### This repository contains code for analyzing data on Olympic Games participants, focusing on age and sex distribution.
 
